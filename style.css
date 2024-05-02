@@ -19,6 +19,9 @@ nav img {
     padding-left: 0px;
     
 }
+nav img:hover{
+    background-color: rgb(122, 27, 27);
+}
 ul {
     list-style-type: none;
     display: flex;
